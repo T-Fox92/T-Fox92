@@ -33,9 +33,6 @@ A collaborative web development project created as part of my coursework.
 
 Repository: [humane-society-utah]https://github.com/bergfrue/humane-society-utah
 
-### Additional Coursework
-Other projects exploring programming fundamentals, object-oriented design, data structures, algorithms, and software engineering.
-
 ## More Projects
 
 I also have additional coursework and collaborative projects hosted on my previous GitHub account.
