@@ -31,7 +31,7 @@ A collaborative web development project created as part of my coursework.
 - Collaborative development using GitHub
 - Website structure, navigation, and interactive elements
 
-Repository: [humane-society-utah]https://github.com/bergfrue/humane-society-utah
+Repository: [humane-society-utah](https://github.com/bergfrue/humane-society-utah)
 
 ## More Projects
 
